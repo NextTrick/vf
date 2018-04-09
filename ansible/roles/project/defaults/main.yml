@@ -1,0 +1,10 @@
+---
+mysql_user: projectuser
+mysql_password: projectpass
+
+database: vf_db
+
+#master_db_sql:
+#    - 000_db.sql    
+
+project_name: vf.com.pe

@@ -1,0 +1,23 @@
+/*
+
+    Theme Name: Construct
+
+    Theme URI: http://demo.thememodern.net/construct/
+
+    Author: Thememodern
+
+    Author URI: http://thememodern.net
+
+    Release Date: 19 May 2017
+
+    Requirements: WordPress 4.0 or higher, PHP 5
+
+    Compatibility: WordPress 4.7
+
+    Tags: web app
+
+    Last Update Date:
+
+*/
+
+
