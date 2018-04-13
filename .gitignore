@@ -15,6 +15,6 @@ nbproject
 #composer.phar
 composer.lock
 VirtualBox-*
-wp-content/uploads
+#wp-content/uploads
 #wp-config.php
 
